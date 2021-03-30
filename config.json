@@ -1,0 +1,4 @@
+{
+  "token": "put your bot token here",
+  "prefix": "s!" // you can change the prefix to anything you want.
+}
