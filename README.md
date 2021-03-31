@@ -7,4 +7,15 @@ Also if your feeling a bit lazy, go to https://replit.com/@oofquest/simple-disco
 
 I don't know if I will ever complete this bot, maybe when summer comes. If you think I should finish this bot, then contact me. Thanks!
 
-(Also forgot to mention: This Discord Bot is made for begginners so that you get a head start on making your own discord bot.)
+(Also forgot to mention: This Discord Bot is made for beginners so that you get a head start on making your own discord bot.)
+
+What version is this Discord Bot?
+
+v12.5.1
+
+# Installation Process:
+
+Clone the repo: git clone https://github.com/oofquest/discord-bot/
+Then go to console and do: npm i discord.js
+
+and you should be good to go!
