@@ -15,7 +15,8 @@ v12.5.1
 
 # Installation Process:
 
-Clone the repo: git clone https://github.com/oofquest/discord-bot/
-Then go to console and do: npm i discord.js
+Clone the repo: git clone https://github.com/oofquest/discord-bot/.
+
+Once your done, to go the console and do npm i discord.js
 
 and you should be good to go!
